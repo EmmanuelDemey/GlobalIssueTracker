@@ -5,6 +5,7 @@
 ### Sociétés
 
 * <a href="https://www.lamobilery.fr/">La Mobilery</a>
+* <a href="telmedia.fr/">Telmeddia</a>
 
 ### Associations
 
