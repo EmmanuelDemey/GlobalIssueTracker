@@ -10,4 +10,5 @@
 ### Associations
 
 * <a href="https://agilille.fr/">Agilille</a>
+* <a href="https://bdxio.fr/">BDX.io</a>
 * <a href="https://devfest.gdgnantes.com/">Devfest Nantes</a>
